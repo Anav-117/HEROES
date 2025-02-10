@@ -118,14 +118,8 @@ body {
   margin: auto;
   width: 50%;
   overflow: hidden;
-  padding: 0px;
+  padding: 20px;
   font-size: 0;
-}
-
-.results-carousel .item img {
-  margin: auto;
-  margin-top: 0%;
-  position: relative;
 }
 
 .results-carousel video {
